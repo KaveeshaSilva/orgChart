@@ -1,0 +1,22 @@
+@import url("https://cdn.jsdelivr.net/npm/vue-orgchart/dist/style.min.css");
+
+#chart-container{
+    display: flex;
+    justify-content: center;
+    background-color: lightgrey;
+    border-radius: 35px;
+    border:solid #FEAB0B;
+    overflow:scroll;
+}
+.orgchart .node .title{
+    background-color:deepskyblue
+}
+
+.orgchart .node{
+    background-color: #FEAB0B;
+    margin: 0 3px 0 3px;
+}
+
+
+    
+
